@@ -1,4 +1,4 @@
-<li><a href="states/Afghanistan.html">Afghanistan<img src="https://flagicons.lipis.dev/flags/1x1/af.svg"></a></li>
+<li><a href="states/Afghanistan/Afghanistan.html">Afghanistan<img src="https://flagicons.lipis.dev/flags/1x1/af.svg"></a></li>
 <li><a href="states/Albania.html">Albania<img src="https://flagicons.lipis.dev/flags/1x1/al.svg"></a></li>
 <li><a href="states/Algeria.html">Algeria<img src="https://flagicons.lipis.dev/flags/1x1/dz.svg"></a></li>
 <li><a href="states/Andorra.html">Andorra<img src="https://flagicons.lipis.dev/flags/1x1/ad.svg"></a></li>

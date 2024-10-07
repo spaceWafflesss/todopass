@@ -22,3 +22,14 @@ body {
     background-color: #ddd;
     color: black;
   }
+
+.title {
+  position: absolute;
+    left: 15%;
+    top: 10%;
+}
+
+.rightPhotos {
+  position: absolute;
+  float: right;
+}
