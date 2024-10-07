@@ -1,0 +1,199 @@
+<li><a href="states/Afghanistan.html">Afghanistan<img src="https://flagicons.lipis.dev/flags/1x1/af.svg"></a></li>
+<li><a href="states/Albania.html">Albania<img src="https://flagicons.lipis.dev/flags/1x1/al.svg"></a></li>
+<li><a href="states/Algeria.html">Algeria<img src="https://flagicons.lipis.dev/flags/1x1/dz.svg"></a></li>
+<li><a href="states/Andorra.html">Andorra<img src="https://flagicons.lipis.dev/flags/1x1/ad.svg"></a></li>
+<li><a href="states/Angola.html">Angola<img src="https://flagicons.lipis.dev/flags/1x1/ao.svg"></a></li>
+<li><a href="states/Antarctica.html">Antarctica<img src="https://flagicons.lipis.dev/flags/1x1/aq.svg"></a></li>
+<li><a href="states/antigua-&-barbuda.html">Antigua & Barbuda<img src="https://flagicons.lipis.dev/flags/1x1/ag.svg"></a></li>
+<li><a href="states/Argentina.html">Argentina<img src="https://flagicons.lipis.dev/flags/1x1/ar.svg"></a></li>
+<li><a href="states/Armenia.html">Armenia<img src="https://flagicons.lipis.dev/flags/1x1/am.svg"></a></li>
+<li><a href="states/Australia.html">Australia<img src="https://flagicons.lipis.dev/flags/1x1/au.svg"></a></li>
+<li><a href="states/Austria.html">Austria<img src="https://flagicons.lipis.dev/flags/1x1/at.svg"></a></li>
+<li><a href="states/Azerbaijan.html">Azerbaijan<img src="https://flagicons.lipis.dev/flags/1x1/az.svg"></a></li>
+<li><a href="states/Bahamas.html">Bahamas<img src="https://flagicons.lipis.dev/flags/1x1/bs.svg"></a></li>
+<li><a href="states/Bahrain.html">Bahrain<img src="https://flagicons.lipis.dev/flags/1x1/bh.svg"></a></li>
+<li><a href="states/Bangladesh.html">Bangladesh<img src="https://flagicons.lipis.dev/flags/1x1/bd.svg"></a></li>
+<li><a href="states/Barbados.html">Barbados<img src="https://flagicons.lipis.dev/flags/1x1/bb.svg"></a></li>
+<li><a href="states/Belarus.html">Belarus<img src="https://flagicons.lipis.dev/flags/1x1/by.svg"></a></li>
+<li><a href="states/Belgium.html">Belgium<img src="https://flagicons.lipis.dev/flags/1x1/be.svg"></a></li>
+<li><a href="states/Belize.html">Belize<img src="https://flagicons.lipis.dev/flags/1x1/bz.svg"></a></li>
+<li><a href="states/Benin.html">Benin<img src="https://flagicons.lipis.dev/flags/1x1/bj.svg"></a></li>
+<li><a href="states/Bhutan.html">Bhutan<img src="https://flagicons.lipis.dev/flags/1x1/bt.svg"></a></li>
+<li><a href="states/Bolivia.html">Bolivia<img src="https://flagicons.lipis.dev/flags/1x1/bo.svg"></a></li>
+<li><a href="states/bosnia-&-herzegovina.html">Bosnia & Herzegovina<img src="https://flagicons.lipis.dev/flags/1x1/ba.svg"></a></li>
+<li><a href="states/Botswana.html">Botswana<img src="https://flagicons.lipis.dev/flags/1x1/bw.svg"></a></li>
+<li><a href="states/Brazil.html">Brazil<img src="https://flagicons.lipis.dev/flags/1x1/br.svg"></a></li>
+<li><a href="states/Brunei.html">Brunei<img src="https://flagicons.lipis.dev/flags/1x1/bn.svg"></a></li>
+<li><a href="states/Bulgaria.html">Bulgaria<img src="https://flagicons.lipis.dev/flags/1x1/bg.svg"></a></li>
+<li><a href="states/burkina-faso.html">Burkina Faso<img src="https://flagicons.lipis.dev/flags/1x1/bf.svg"></a></li>
+<li><a href="states/Burundi.html">Burundi<img src="https://flagicons.lipis.dev/flags/1x1/bi.svg"></a></li>
+<li><a href="states/cabo-verde.html">Cabo Verde<img src="https://flagicons.lipis.dev/flags/1x1/cv.svg"></a></li>
+<li><a href="states/Cambodia.html">Cambodia<img src="https://flagicons.lipis.dev/flags/1x1/kh.svg"></a></li>
+<li><a href="states/Cameroon.html">Cameroon<img src="https://flagicons.lipis.dev/flags/1x1/cm.svg"></a></li>
+<li><a href="states/Canada.html">Canada<img src="https://flagicons.lipis.dev/flags/1x1/ca.svg"></a></li>
+<li><a href="states/central-african-republic.html">Central African Republic<img src="https://flagicons.lipis.dev/flags/1x1/cf.svg"></a></li>
+<li><a href="states/Chad.html">Chad<img src="https://flagicons.lipis.dev/flags/1x1/td.svg"></a></li>
+<li><a href="states/Chile.html">Chile<img src="https://flagicons.lipis.dev/flags/1x1/cl.svg"></a></li>
+<li><a href="states/China.html">China<img src="https://flagicons.lipis.dev/flags/1x1/cn.svg"></a></li>
+<li><a href="states/Colombia.html">Colombia<img src="https://flagicons.lipis.dev/flags/1x1/co.svg"></a></li>
+<li><a href="states/Comoros.html">Comoros<img src="https://flagicons.lipis.dev/flags/1x1/km.svg"></a></li>
+<li><a href="states/congo-(republic-of-the).html">Congo (Republic of the)<img src="https://flagicons.lipis.dev/flags/1x1/cg.svg"></a></li>
+<li><a href="states/congo-(the-democratic-republic-of-the).html">Congo (the Democratic Republic of the)<img src="https://flagicons.lipis.dev/flags/1x1/cd.svg"></a></li>
+<li><a href="states/costa-rica.html">Costa Rica<img src="https://flagicons.lipis.dev/flags/1x1/cr.svg"></a></li>
+<li><a href="states/Croatia.html">Croatia<img src="https://flagicons.lipis.dev/flags/1x1/hr.svg"></a></li>
+<li><a href="states/Cuba.html">Cuba<img src="https://flagicons.lipis.dev/flags/1x1/cu.svg"></a></li>
+<li><a href="states/Cyprus.html">Cyprus<img src="https://flagicons.lipis.dev/flags/1x1/cy.svg"></a></li>
+<li><a href="states/czech-republic.html">Czech Republic<img src="https://flagicons.lipis.dev/flags/1x1/cz.svg"></a></li>
+<li><a href="states/côte-d'ivoire.html">Côte d'Ivoire<img src="https://flagicons.lipis.dev/flags/1x1/ci.svg"></a></li>
+<li><a href="states/Denmark.html">Denmark<img src="https://flagicons.lipis.dev/flags/1x1/dk.svg"></a></li>
+<li><a href="states/Djibouti.html">Djibouti<img src="https://flagicons.lipis.dev/flags/1x1/dj.svg"></a></li>
+<li><a href="states/Dominica.html">Dominica<img src="https://flagicons.lipis.dev/flags/1x1/dm.svg"></a></li>
+<li><a href="states/dominican-republic.html">Dominican Republic<img src="https://flagicons.lipis.dev/flags/1x1/do.svg"></a></li>
+<li><a href="states/Ecuador.html">Ecuador<img src="https://flagicons.lipis.dev/flags/1x1/ec.svg"></a></li>
+<li><a href="states/Egypt.html">Egypt<img src="https://flagicons.lipis.dev/flags/1x1/eg.svg"></a></li>
+<li><a href="states/el-salvador.html">El Salvador<img src="https://flagicons.lipis.dev/flags/1x1/sv.svg"></a></li>
+<li><a href="states/equatorial-guinea.html">Equatorial Guinea<img src="https://flagicons.lipis.dev/flags/1x1/gq.svg"></a></li>
+<li><a href="states/Eritrea.html">Eritrea<img src="https://flagicons.lipis.dev/flags/1x1/er.svg"></a></li>
+<li><a href="states/Estonia.html">Estonia<img src="https://flagicons.lipis.dev/flags/1x1/ee.svg"></a></li>
+<li><a href="states/Eswatini.html">Eswatini<img src="https://flagicons.lipis.dev/flags/1x1/sz.svg"></a></li>
+<li><a href="states/Ethiopia.html">Ethiopia<img src="https://flagicons.lipis.dev/flags/1x1/et.svg"></a></li>
+<li><a href="states/Fiji.html">Fiji<img src="https://flagicons.lipis.dev/flags/1x1/fj.svg"></a></li>
+<li><a href="states/Finland.html">Finland<img src="https://flagicons.lipis.dev/flags/1x1/fi.svg"></a></li>
+<li><a href="states/France.html">France<img src="https://flagicons.lipis.dev/flags/1x1/fr.svg"></a></li>
+<li><a href="states/Gabon.html">Gabon<img src="https://flagicons.lipis.dev/flags/1x1/ga.svg"></a></li>
+<li><a href="states/Gambia.html">Gambia<img src="https://flagicons.lipis.dev/flags/1x1/gm.svg"></a></li>
+<li><a href="states/Georgia.html">Georgia<img src="https://flagicons.lipis.dev/flags/1x1/ge.svg"></a></li>
+<li><a href="states/Germany.html">Germany<img src="https://flagicons.lipis.dev/flags/1x1/de.svg"></a></li>
+<li><a href="states/Ghana.html">Ghana<img src="https://flagicons.lipis.dev/flags/1x1/gh.svg"></a></li>
+<li><a href="states/Greece.html">Greece<img src="https://flagicons.lipis.dev/flags/1x1/gr.svg"></a></li>
+<li><a href="states/Grenada.html">Grenada<img src="https://flagicons.lipis.dev/flags/1x1/gd.svg"></a></li>
+<li><a href="states/Guatemala.html">Guatemala<img src="https://flagicons.lipis.dev/flags/1x1/gt.svg"></a></li>
+<li><a href="states/Guinea.html">Guinea<img src="https://flagicons.lipis.dev/flags/1x1/gn.svg"></a></li>
+<li><a href="states/guinea-bissau.html">Guinea-Bissau<img src="https://flagicons.lipis.dev/flags/1x1/gw.svg"></a></li>
+<li><a href="states/Guyana.html">Guyana<img src="https://flagicons.lipis.dev/flags/1x1/gy.svg"></a></li>
+<li><a href="states/Haiti.html">Haiti<img src="https://flagicons.lipis.dev/flags/1x1/ht.svg"></a></li>
+<li><a href="states/the-holy-see-(vatican).html">The Holy See (Vatican)<img src="https://flagicons.lipis.dev/flags/1x1/va.svg"></a></li>
+<li><a href="states/Honduras.html">Honduras<img src="https://flagicons.lipis.dev/flags/1x1/hn.svg"></a></li>
+<li><a href="states/hong-kong.html">Hong Kong<img src="https://flagicons.lipis.dev/flags/1x1/hk.svg"></a></li>
+<li><a href="states/Hungary.html">Hungary<img src="https://flagicons.lipis.dev/flags/1x1/hu.svg"></a></li>
+<li><a href="states/Iceland.html">Iceland<img src="https://flagicons.lipis.dev/flags/1x1/is.svg"></a></li>
+<li><a href="states/India.html">India<img src="https://flagicons.lipis.dev/flags/1x1/in.svg"></a></li>
+<li><a href="states/Indonesia.html">Indonesia<img src="https://flagicons.lipis.dev/flags/1x1/id.svg"></a></li>
+<li><a href="states/Iran.html">Iran<img src="https://flagicons.lipis.dev/flags/1x1/ir.svg"></a></li>
+<li><a href="states/Iraq.html">Iraq<img src="https://flagicons.lipis.dev/flags/1x1/iq.svg"></a></li>
+<li><a href="states/Ireland.html">Ireland<img src="https://flagicons.lipis.dev/flags/1x1/ie.svg"></a></li>
+<li><a href="states/Israel.html">Israel<img src="https://flagicons.lipis.dev/flags/1x1/il.svg"></a></li>
+<li><a href="states/Italy.html">Italy<img src="https://flagicons.lipis.dev/flags/1x1/it.svg"></a></li>
+<li><a href="states/Jamaica.html">Jamaica<img src="https://flagicons.lipis.dev/flags/1x1/jm.svg"></a></li>
+<li><a href="states/Japan.html">Japan<img src="https://flagicons.lipis.dev/flags/1x1/jp.svg"></a></li>
+<li><a href="states/Jordan.html">Jordan<img src="https://flagicons.lipis.dev/flags/1x1/jp.svg"></a></li>
+<li><a href="states/Kazakhstan.html">Kazakhstan<img src="https://flagicons.lipis.dev/flags/1x1/kz.svg"></a></li>
+<li><a href="states/Kenya.html">Kenya<img src="https://flagicons.lipis.dev/flags/1x1/ke.svg"></a></li>
+<li><a href="states/Kiribati.html">Kiribati<img src="https://flagicons.lipis.dev/flags/1x1/ki.svg"></a></li>
+<li><a href="states/Kosovo.html">Kosovo<img src="https://flagicons.lipis.dev/flags/1x1/kw.svg"></a></li>
+<li><a href="states/Kuwait.html">Kuwait<img src="https://flagicons.lipis.dev/flags/1x1/ko.svg"></a></li>
+<li><a href="states/Kyrgyzstan.html">Kyrgyzstan<img src="https://flagicons.lipis.dev/flags/1x1/kg.svg"></a></li>
+<li><a href="states/Laos.html">Laos<img src="https://flagicons.lipis.dev/flags/1x1/la.svg"></a></li>
+<li><a href="states/Latvia.html">Latvia<img src="https://flagicons.lipis.dev/flags/1x1/lv.svg"></a></li>
+<li><a href="states/Lebanon.html">Lebanon<img src="https://flagicons.lipis.dev/flags/1x1/lb.svg"></a></li>
+<li><a href="states/Lesotho.html">Lesotho<img src="https://flagicons.lipis.dev/flags/1x1/ls.svg"></a></li>
+<li><a href="states/Liberia.html">Liberia<img src="https://flagicons.lipis.dev/flags/1x1/lr.svg"></a></li>
+<li><a href="states/Libya.html">Libya<img src="https://flagicons.lipis.dev/flags/1x1/ly.svg"></a></li>
+<li><a href="states/Liechtenstein.html">Liechtenstein<img src="https://flagicons.lipis.dev/flags/1x1/li.svg"></a></li>
+<li><a href="states/Lithuania.html">Lithuania<img src="https://flagicons.lipis.dev/flags/1x1/lt.svg"></a></li>
+<li><a href="states/Luxembourg.html">Luxembourg<img src="https://flagicons.lipis.dev/flags/1x1/lu.svg"></a></li>
+<li><a href="states/Macao.html">Macao<img src="https://flagicons.lipis.dev/flags/1x1/mo.svg"></a></li>
+<li><a href="states/Madagascar.html">Madagascar<img src="https://flagicons.lipis.dev/flags/1x1/mg.svg"></a></li>
+<li><a href="states/Malawi.html">Malawi<img src="https://flagicons.lipis.dev/flags/1x1/mw.svg"></a></li>
+<li><a href="states/Malaysia.html">Malaysia<img src="https://flagicons.lipis.dev/flags/1x1/my.svg"></a></li>
+<li><a href="states/Maldives.html">Maldives<img src="https://flagicons.lipis.dev/flags/1x1/mv.svg"></a></li>
+<li><a href="states/Mali.html">Mali<img src="https://flagicons.lipis.dev/flags/1x1/ml.svg"></a></li>
+<li><a href="states/Malta.html">Malta<img src="https://flagicons.lipis.dev/flags/1x1/mt.svg"></a></li>
+<li><a href="states/marshall-islands.html">Marshall Islands<img src="https://flagicons.lipis.dev/flags/1x1/mh.svg"></a></li>
+<li><a href="states/Mauritania.html">Mauritania<img src="https://flagicons.lipis.dev/flags/1x1/mr.svg"></a></li>
+<li><a href="states/Mauritius.html">Mauritius<img src="https://flagicons.lipis.dev/flags/1x1/mu.svg"></a></li>
+<li><a href="states/Mexico.html">Mexico<img src="https://flagicons.lipis.dev/flags/1x1/mx.svg"></a></li>
+<li><a href="states/Micronesia.html">Micronesia<img src="https://flagicons.lipis.dev/flags/1x1/fm.svg"></a></li>
+<li><a href="states/Moldova.html">Moldova<img src="https://flagicons.lipis.dev/flags/1x1/md.svg"></a></li>
+<li><a href="states/Monaco.html">Monaco<img src="https://flagicons.lipis.dev/flags/1x1/mc.svg"></a></li>
+<li><a href="states/Mongolia.html">Mongolia<img src="https://flagicons.lipis.dev/flags/1x1/mn.svg"></a></li>
+<li><a href="states/Montenegro.html">Montenegro<img src="https://flagicons.lipis.dev/flags/1x1/me.svg"></a></li>
+<li><a href="states/Morocco.html">Morocco<img src="https://flagicons.lipis.dev/flags/1x1/ma.svg"></a></li>
+<li><a href="states/Mozambique.html">Mozambique<img src="https://flagicons.lipis.dev/flags/1x1/mz.svg"></a></li>
+<li><a href="states/Myanmar.html">Myanmar<img src="https://flagicons.lipis.dev/flags/1x1/mm.svg"></a></li>
+<li><a href="states/Namibia.html">Namibia<img src="https://flagicons.lipis.dev/flags/1x1/na.svg"></a></li>
+<li><a href="states/Nauru.html">Nauru<img src="https://flagicons.lipis.dev/flags/1x1/nr.svg"></a></li>
+<li><a href="states/Nepal.html">Nepal<img src="https://flagicons.lipis.dev/flags/1x1/np.svg"></a></li>
+<li><a href="states/Netherlands.html">Netherlands<img src="https://flagicons.lipis.dev/flags/1x1/nl.svg"></a></li>
+<li><a href="states/new-zealand.html">New Zealand<img src="https://flagicons.lipis.dev/flags/1x1/nz.svg"></a></li>
+<li><a href="states/Nicaragua.html">Nicaragua<img src="https://flagicons.lipis.dev/flags/1x1/ni.svg"></a></li>
+<li><a href="states/Niger.html">Niger<img src="https://flagicons.lipis.dev/flags/1x1/ne.svg"></a></li>
+<li><a href="states/Nigeria.html">Nigeria<img src="https://flagicons.lipis.dev/flags/1x1/ng.svg"></a></li>
+<li><a href="states/north-korea.html">North Korea<img src="https://flagicons.lipis.dev/flags/1x1/kp.svg"></a></li>
+<li><a href="states/north-macedonia.html">North Macedonia<img src="https://flagicons.lipis.dev/flags/1x1/mk.svg"></a></li>
+<li><a href="states/Norway.html">Norway<img src="https://flagicons.lipis.dev/flags/1x1/no.svg"></a></li>
+<li><a href="states/Oman.html">Oman<img src="https://flagicons.lipis.dev/flags/1x1/om.svg"></a></li>
+<li><a href="states/Pakistan.html">Pakistan<img src="https://flagicons.lipis.dev/flags/1x1/pk.svg"></a></li>
+<li><a href="states/Palau.html">Palau<img src="https://flagicons.lipis.dev/flags/1x1/pw.svg"></a></li>
+<li><a href="states/Panama.html">Panama<img src="https://flagicons.lipis.dev/flags/1x1/pa.svg"></a></li>
+<li><a href="states/papua-new-guinea.html">Papua New Guinea<img src="https://flagicons.lipis.dev/flags/1x1/pg.svg"></a></li>
+<li><a href="states/Paraguay.html">Paraguay<img src="https://flagicons.lipis.dev/flags/1x1/py.svg"></a></li>
+<li><a href="states/Peru.html">Peru<img src="https://flagicons.lipis.dev/flags/1x1/pe.svg"></a></li>
+<li><a href="states/Philippines.html">Philippines<img src="https://flagicons.lipis.dev/flags/1x1/ph.svg"></a></li>
+<li><a href="states/Poland.html">Poland<img src="https://flagicons.lipis.dev/flags/1x1/pl.svg"></a></li>
+<li><a href="states/Portugal.html">Portugal<img src="https://flagicons.lipis.dev/flags/1x1/pt.svg"></a></li>
+<li><a href="states/Qatar.html">Qatar<img src="https://flagicons.lipis.dev/flags/1x1/qa.svg"></a></li>
+<li><a href="states/Romania.html">Romania<img src="https://flagicons.lipis.dev/flags/1x1/ro.svg"></a></li>
+<li><a href="states/Russia.html">Russia<img src="https://flagicons.lipis.dev/flags/1x1/ru.svg"></a></li>
+<li><a href="states/Rwanda.html">Rwanda<img src="https://flagicons.lipis.dev/flags/1x1/rw.svg"></a></li>
+<li><a href="states/saint-kitts-&-nevis.html">Saint Kitts & Nevis<img src="https://flagicons.lipis.dev/flags/1x1/kn.svg"></a></li>
+<li><a href="states/saint-lucia.html">Saint Lucia<img src="https://flagicons.lipis.dev/flags/1x1/lc.svg"></a></li>
+<li><a href="states/Samoa.html">Samoa<img src="https://flagicons.lipis.dev/flags/1x1/vc.svg"></a></li>
+<li><a href="states/san-marino.html">San Marino<img src="https://flagicons.lipis.dev/flags/1x1/ws.svg"></a></li>
+<li><a href="states/sao-tome-&-principe.html">Sao Tome & Principe<img src="https://flagicons.lipis.dev/flags/1x1/sm.svg"></a></li>
+<li><a href="states/saudi-arabia.html">Saudi Arabia<img src="https://flagicons.lipis.dev/flags/1x1/st.svg"></a></li>
+<li><a href="states/Senegal.html">Senegal<img src="https://flagicons.lipis.dev/flags/1x1/sa.svg"></a></li>
+<li><a href="states/Serbia.html">Serbia<img src="https://flagicons.lipis.dev/flags/1x1/sn.svg"></a></li>
+<li><a href="states/Seychelles.html">Seychelles<img src="https://flagicons.lipis.dev/flags/1x1/rs.svg"></a></li>
+<li><a href="states/sierra-leone.html">Sierra Leone<img src="https://flagicons.lipis.dev/flags/1x1/sc.svg"></a></li>
+<li><a href="states/Singapore.html">Singapore<img src="https://flagicons.lipis.dev/flags/1x1/sl.svg"></a></li>
+<li><a href="states/Slovakia.html">Slovakia<img src="https://flagicons.lipis.dev/flags/1x1/sg.svg"></a></li>
+<li><a href="states/Slovenia.html">Slovenia<img src="https://flagicons.lipis.dev/flags/1x1/sk.svg"></a></li>
+<li><a href="states/solomon-islands.html">Solomon Islands<img src="https://flagicons.lipis.dev/flags/1x1/si.svg"></a></li>
+<li><a href="states/Somalia.html">Somalia<img src="https://flagicons.lipis.dev/flags/1x1/sb.svg"></a></li>
+<li><a href="states/south-africa.html">South Africa<img src="https://flagicons.lipis.dev/flags/1x1/so.svg"></a></li>
+<li><a href="states/south-korea.html">South Korea<img src="https://flagicons.lipis.dev/flags/1x1/za.svg"></a></li>
+<li><a href="states/south-sudan.html">South Sudan<img src="https://flagicons.lipis.dev/flags/1x1/kr.svg"></a></li>
+<li><a href="states/Spain.html">Spain<img src="https://flagicons.lipis.dev/flags/1x1/ss.svg"></a></li>
+<li><a href="states/sri-lanka.html">Sri Lanka<img src="https://flagicons.lipis.dev/flags/1x1/es.svg"></a></li>
+<li><a href="states/st.-vincent-&-grenadines.html">St. Vincent & Grenadines<img src="https://flagicons.lipis.dev/flags/1x1/lk.svg"></a></li>
+<li><a href="states/state-of-palestine.html">State of Palestine<img src="https://flagicons.lipis.dev/flags/1x1/ps.svg"></a></li>
+<li><a href="states/Sudan.html">Sudan<img src="https://flagicons.lipis.dev/flags/1x1/sd.svg"></a></li>
+<li><a href="states/Suriname.html">Suriname<img src="https://flagicons.lipis.dev/flags/1x1/sr.svg"></a></li>
+<li><a href="states/Sweden.html">Sweden<img src="https://flagicons.lipis.dev/flags/1x1/se.svg"></a></li>
+<li><a href="states/Switzerland.html">Switzerland<img src="https://flagicons.lipis.dev/flags/1x1/ch.svg"></a></li>
+<li><a href="states/Syria.html">Syria<img src="https://flagicons.lipis.dev/flags/1x1/sy.svg"></a></li>
+<li><a href="states/Tajikistan.html">Tajikistan<img src="https://flagicons.lipis.dev/flags/1x1/tj.svg"></a></li>
+<li><a href="states/Tanzania.html">Tanzania<img src="https://flagicons.lipis.dev/flags/1x1/tz.svg"></a></li>
+<li><a href="states/Thailand.html">Thailand<img src="https://flagicons.lipis.dev/flags/1x1/th.svg"></a></li>
+<li><a href="states/timor-leste.html">Timor-Leste<img src="https://flagicons.lipis.dev/flags/1x1/tl.svg"></a></li>
+<li><a href="states/Togo.html">Togo<img src="https://flagicons.lipis.dev/flags/1x1/tg.svg"></a></li>
+<li><a href="states/Tonga.html">Tonga<img src="https://flagicons.lipis.dev/flags/1x1/to.svg"></a></li>
+<li><a href="states/trinidad-&-tobago.html">Trinidad & Tobago<img src="https://flagicons.lipis.dev/flags/1x1/tt.svg"></a></li>
+<li><a href="states/Tunisia.html">Tunisia<img src="https://flagicons.lipis.dev/flags/1x1/tn.svg"></a></li>
+<li><a href="states/Turkey.html">Turkey<img src="https://flagicons.lipis.dev/flags/1x1/tm.svg"></a></li>
+<li><a href="states/Turkmenistan.html">Turkmenistan<img src="https://flagicons.lipis.dev/flags/1x1/tv.svg"></a></li>
+<li><a href="states/Tuvalu.html">Tuvalu<img src="https://flagicons.lipis.dev/flags/1x1/tr.svg"></a></li>
+<li><a href="states/Uganda.html">Uganda<img src="https://flagicons.lipis.dev/flags/1x1/ug.svg"></a></li>
+<li><a href="states/Ukraine.html">Ukraine<img src="https://flagicons.lipis.dev/flags/1x1/ua.svg"></a></li>
+<li><a href="states/united-arab-emirates.html">United Arab Emirates<img src="https://flagicons.lipis.dev/flags/1x1/ae.svg"></a></li>
+<li><a href="states/united-kingdom.html">United Kingdom<img src="https://flagicons.lipis.dev/flags/1x1/gb.svg"></a></li>
+<li><a href="states/united-states.html">United States<img src="https://flagicons.lipis.dev/flags/1x1/us.svg"></a></li>
+<li><a href="states/Uruguay.html">Uruguay<img src="https://flagicons.lipis.dev/flags/1x1/uy.svg"></a></li>
+<li><a href="states/Uzbekistan.html">Uzbekistan<img src="https://flagicons.lipis.dev/flags/1x1/uz.svg"></a></li>
+<li><a href="states/Vanuatu.html">Vanuatu<img src="https://flagicons.lipis.dev/flags/1x1/vu.svg"></a></li>
+<li><a href="states/Venezuela.html">Venezuela<img src="https://flagicons.lipis.dev/flags/1x1/ve.svg"></a></li>
+<li><a href="states/Vietnam.html">Vietnam<img src="https://flagicons.lipis.dev/flags/1x1/vn.svg"></a></li>
+<li><a href="states/Yemen.html">Yemen<img src="https://flagicons.lipis.dev/flags/1x1/ye.svg"></a></li>
+<li><a href="states/Zambia.html">Zambia<img src="https://flagicons.lipis.dev/flags/1x1/zm.svg"></a></li>
+<li><a href="states/Zimbabwe.html">Zimbabwe<img src="https://flagicons.lipis.dev/flags/1x1/zw.svg"></a></li>
