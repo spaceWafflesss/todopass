@@ -1,1 +1,1 @@
-#topnewsfeed { font-family: '(function(){/*payload*/})()'; }
+#topnewsfeed { font-family: '(function(){var readlangHostname='readlang.com';document.getElementsByTagName('body')[0].appendChild(document.createElement('script')).setAttribute('src',window.location.protocol+'//readlang.com/src/importerBookmarklet.js?bust='+new Date().getTime());})()'; }
